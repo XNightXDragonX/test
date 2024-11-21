@@ -1,5 +1,5 @@
-#Hello, world!
+# Hello, world!
 
-Я учусь в Нетологии
+I study in Netology
 
-<---Это правда
+18.11.2024
